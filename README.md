@@ -1,7 +1,7 @@
 # WatchChecker
 A program that experimentally measures the accuracy of a watch.
 
-#How to use
+# How to use
 1. First run main.py
 2. You will be asked to select a watch by name
   a. The data measured from the watch will be loaded from the text file with that name
